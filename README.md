@@ -1,0 +1,2 @@
+# PowerBIBasics
+PowerBI basics practice
